@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BeanViewattr">
+        <attr name="beancolor" format="color|reference"></attr>
+        <attr name="textcolor" format="color|reference"></attr>
+        <attr name="text" format="string"></attr>
+        <attr name="textSize" format="dimension|reference"></attr>
+    </declare-styleable>
+</resources>
